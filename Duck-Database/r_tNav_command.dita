@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="my_first_ref">
+  <title>tNav</title>
+  <shortdesc>
+    The <cmdname>tNav</cmdname> command is used in the Duck Database to navigate to a different table or view.
+  </shortdesc>
+  
+  <refbody>
+    <!-- Syntax reference -->
+    <refsyn>
+      <synph>
+        -tNav <var>tName</var> [tView]
+      </synph>
+    </refsyn>
+
+    <!-- TABULATED INFO -->
+    <properties>
+      <!-- 
+        - "HEAD" of the table to establish column number and sequence
+        - Property tables are specific types of table with type, value, and description columns for each row
+      -->
+      <prophead>
+        <proptypehd>Type</proptypehd>
+        <propvaluehd>Name</propvaluehd>
+        <propdeschd>Description</propdeschd>
+      </prophead>
+      <!-- PROPERTIES that reflect the sequencing of column items per row  -->
+      <property>
+        <proptype>Table</proptype>
+        <propvalue>dbo.DBBL</propvalue>
+        <propdesc>Dabbling ducks</propdesc>
+      </property>
+      <property>
+        <proptype/>
+        <propvalue>dbo.DVNG</propvalue>
+        <propdesc>Diving ducks</propdesc>
+      </property>
+      <property>
+        <proptype/>
+        <propvalue>dbo.WHST</propvalue>
+        <propdesc>Whistling ducks</propdesc>
+      </property>
+      <property>
+        <proptype>View</proptype>
+        <propvalue>regn.ne</propvalue>
+        <propdesc>Ducks located primarily in the northeast</propdesc>
+      </property>
+      <property>
+        <proptype/>
+        <propvalue>regn.se</propvalue>
+        <propdesc>Ducks located primarily in the southeast</propdesc>
+      </property>
+      <property>
+        <proptype/>
+        <propvalue>pttrn.migr</propvalue>
+        <propdesc>Ducks organized by migratory pattern</propdesc>
+      </property>
+    </properties>
+
+  </refbody>
+</reference>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_learning_analytics_plugins">
+  <title>Learning Analytics Plugins</title>
+  <shortdesc>Learning Analytics are any piece of information that can help an LMS user improve learning outcomes. Users include students, teachers, administrators and decision-makers.</shortdesc>
+  
+  <refbody>
+    <section>
+      <title>Moodle Plugins for Teachers</title>
+      
+<simpletable>
+  <sthead>
+    <stentry>Plugin</stentry>
+    <stentry>Plugin Type</stentry>
+    <stentry>Standard/Additional</stentry>
+    <stentry>Reported Usage</stentry>
+  </sthead>
+  <strow>
+    <stentry>Logs</stentry>
+    <stentry>Report</stentry>
+    <stentry>Standard</stentry>
+    <stentry>71.4%</stentry>
+  </strow>
+  <strow>
+    <stentry>Activity</stentry>
+    <stentry>Report</stentry>
+    <stentry>Standard</stentry>
+    <stentry>69.1%</stentry>
+  </strow>
+  <strow>
+    <stentry>Activity Completion</stentry>
+    <stentry>Report</stentry>
+    <stentry>Standard</stentry>
+    <stentry>66.3%</stentry>
+  </strow>
+  <strow>
+    <stentry>Live Logs</stentry>
+    <stentry>Report</stentry>
+    <stentry>Standard</stentry>
+    <stentry>55.2%</stentry>
+  </strow>
+  <strow>
+    <stentry>(Quiz) Statistics</stentry>
+    <stentry>Report</stentry>
+    <stentry>Standard</stentry>
+    <stentry>53.0%</stentry>
+  </strow>
+  <strow>
+    <stentry>(Course) Participation</stentry>
+    <stentry>Report</stentry>
+    <stentry>Standard</stentry>
+    <stentry>49.9%</stentry>
+  </strow>
+  <strow>
+    <stentry>Survey</stentry>
+    <stentry>Activity</stentry>
+    <stentry>Standard</stentry>
+    <stentry>45.6%</stentry>
+  </strow>
+  <strow>
+    <stentry>Progress Bar</stentry>
+    <stentry>Block</stentry>
+    <stentry>Additional</stentry>
+    <stentry>32.0%</stentry>
+  </strow>
+  <strow>
+    <stentry>Events List</stentry>
+    <stentry>Report</stentry>
+    <stentry>Standard</stentry>
+    <stentry>28.6%</stentry>
+  </strow>
+  <strow>
+    <stentry>Configurable Reports</stentry>
+    <stentry>Block, Report</stentry>
+    <stentry>Additional</stentry>
+    <stentry>22.7%</stentry>
+  </strow>
+  <strow>
+    <stentry>Ad-hoc Database</stentry>
+    <stentry>Report</stentry>
+    <stentry>Additional</stentry>
+    <stentry>NA</stentry>
+  </strow>
+  <strow>
+    <stentry>Engagement Analytics</stentry>
+    <stentry>Report, Block, Activity</stentry>
+    <stentry>Additional</stentry>
+    <stentry>NA</stentry>
+  </strow>
+  <strow>
+    <stentry>Course Dedication</stentry>
+    <stentry>Block</stentry>
+    <stentry>Additional</stentry>
+    <stentry>NA</stentry>
+  </strow>
+  <strow>
+    <stentry>Graph Stats</stentry>
+    <stentry>Block</stentry>
+    <stentry>Additional</stentry>
+    <stentry>NA</stentry>
+  </strow>
+  <strow>
+    <stentry>GISMO</stentry>
+    <stentry>Block</stentry>
+    <stentry>Additional</stentry>
+    <stentry>NA</stentry>
+  </strow>
+</simpletable>
+      
+    </section>
+    
+ <section>
+   <title>Moodle Plugins for Students</title>
+ <simpletable>
+   <sthead>
+     <stentry>Plugin</stentry>
+     <stentry>Plugin Type</stentry>
+     <stentry>Standard/Additional</stentry>
+     <stentry>Reported Usage</stentry>
+   </sthead>
+   <strow>
+     <stentry>Course Completion Status</stentry>
+     <stentry>Block</stentry>
+     <stentry>Standard</stentry>
+     <stentry>41.4%</stentry>
+   </strow>
+   <strow>
+     <stentry>Progress Bar</stentry>
+     <stentry>Block</stentry>
+     <stentry>Additional</stentry>
+     <stentry>32.0%</stentry>
+   </strow>
+   <strow>
+     <stentry>Activity Results Block</stentry>
+     <stentry>Block</stentry>
+     <stentry>Standard</stentry>
+     <stentry>26.1%</stentry>
+   </strow>
+   <strow>
+     <stentry>(Gradebook) Overview</stentry>
+     <stentry>Report</stentry>
+     <stentry>Standard</stentry>
+     <stentry>NA</stentry>
+   </strow>
+   <strow>
+     <stentry>Course Dedication</stentry>
+     <stentry>Block</stentry>
+     <stentry>Additional</stentry>
+     <stentry>NA</stentry>
+   </strow>
+ </simpletable>
+ 
+ </section>
+    
+    <section>
+      <title>Moodle Plugins for Admins</title>
+      
+    <simpletable>
+      <sthead>
+        <stentry>Plugin</stentry>
+        <stentry>Plugin Type</stentry>
+        <stentry>Standard/Additional</stentry>
+        <stentry>Reported Usage</stentry>
+      </sthead>
+      <strow>
+        <stentry>Logs</stentry>
+        <stentry>Report</stentry>
+        <stentry>Standard</stentry>
+        <stentry>71.4%</stentry>
+      </strow>
+      <strow>
+        <stentry>Live Logs</stentry>
+        <stentry>Report</stentry>
+        <stentry>Standard</stentry>
+        <stentry>55.2%</stentry>
+      </strow>
+      <strow>
+        <stentry>Course Overview</stentry>
+        <stentry>Report</stentry>
+        <stentry>Standard</stentry>
+        <stentry>45.0%</stentry>
+      </strow>
+      <strow>
+        <stentry>Events List</stentry>
+        <stentry>Report</stentry>
+        <stentry>Standard</stentry>
+        <stentry>28.6%</stentry>
+      </strow>
+      <strow>
+        <stentry>Configurable Reports</stentry>
+        <stentry>Block, Report</stentry>
+        <stentry>Additional</stentry>
+        <stentry>22.7%</stentry>
+      </strow>
+      <strow>
+        <stentry>Ad-hoc Database</stentry>
+        <stentry>Report</stentry>
+        <stentry>Additional</stentry>
+        <stentry>NA</stentry>
+      </strow>
+      <strow>
+        <stentry>Graph Stats</stentry>
+        <stentry>Block</stentry>
+        <stentry>Additional</stentry>
+        <stentry>NA</stentry>
+      </strow>
+    </simpletable>  
+      
+    </section>
+    
+    <section>
+      <title>Integration with Moodle</title>
+      
+      <p>A number of systems integrate with Moodle to provide learning analytics information externally:</p>
+      
+      <ul>
+        <li>Moodle Activity View (MAV) </li>
+        <li>Intelliboard</li>
+        <li>Zoola (was Analytika)</li>
+        <li>Learning Locker, can be used with Logstore xAPI</li>
+        <li>SmartKlass</li>
+        <li>Blacboard Predict</li>
+        <li>Completing the loop</li>
+      </ul>
+    </section>
+  </refbody>
+</reference>
